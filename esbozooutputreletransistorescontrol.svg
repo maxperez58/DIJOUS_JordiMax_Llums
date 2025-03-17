@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="esbozooutputreletransistorescontrol.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.8954758"
+     inkscape:cx="521.2457"
+     inkscape:cy="388.52764"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="86.253904"
+       y="333.20705"
+       width="107.30396"
+       height="180.72247"
+       id="rect33" />
+    <marker
+       style="overflow:visible"
+       id="marker12"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path12" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect1"
+       width="18.474422"
+       height="8.8296871"
+       x="123.61562"
+       y="66.290573" />
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect1-8"
+       width="18.474422"
+       height="8.8296871"
+       x="123.8037"
+       y="79.788673" />
+    <rect
+       style="fill:#d4b100;stroke-width:0.265;stroke-dasharray:none;fill-opacity:1"
+       id="rect4"
+       width="23.772234"
+       height="11.13899"
+       x="120.76295"
+       y="72.675117" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6"
+       transform="translate(-4.0684138,-0.98809142)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan5"><tspan
+           style="stroke-width:0.265"
+           id="tspan4">Relé 1</tspan></tspan></text>
+    <rect
+       style="fill:#1f1f1f;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="rect6"
+       width="10.323942"
+       height="78.787979"
+       x="172.11098"
+       y="72.675117" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:12.4046;display:inline;fill:#f7f7f7;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="175.50702"
+       y="146.02943"
+       id="text7"
+       transform="matrix(0.81088559,0,0,1.4052452,30.372104,-55.370119)"><tspan
+         x="175.50702"
+         y="146.02943"
+         id="tspan21"><tspan
+           style="stroke-width:0.265"
+           id="tspan20">Output</tspan></tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8"
+       cx="177.17107"
+       cy="77.769165"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="193.45726"
+       y="75.204956"
+       id="text9"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.108134"
+         x="193.45726"
+         y="75.204956">L.corta</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-1"
+       cx="177.09753"
+       cy="88.060524"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="193.3761"
+       y="84.528038"
+       id="text9-8"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-9"
+         style="stroke-width:0.108134"
+         x="193.3761"
+         y="84.528038">L.Larga</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-5"
+       cx="177.17763"
+       cy="98.677498"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="191.59015"
+       y="93.961502"
+       id="text9-4"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-3"
+         style="stroke-width:0.108134"
+         x="191.59015"
+         y="93.961502">Intermitente</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-1-1"
+       cx="177.1041"
+       cy="108.96886"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="192.18375"
+       y="103.22306"
+       id="text9-8-2"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-9-3"
+         style="stroke-width:0.108134"
+         x="192.18375"
+         y="103.22306">Circ. diurna</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-1-1-1"
+       cx="177.16089"
+       cy="118.48882"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="192.69629"
+       y="111.84733"
+       id="text9-8-2-3"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-9-3-8"
+         style="stroke-width:0.108134"
+         x="192.69629"
+         y="111.84733">Brushless</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-1-1-7"
+       cx="177.24704"
+       cy="128.67671"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="194.29088"
+       y="121.07666"
+       id="text9-8-2-7"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-9-3-9"
+         style="stroke-width:0.108134"
+         x="194.29088"
+         y="121.07666">GND</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-1-1-7-8"
+       cx="177.2998"
+       cy="138.22206"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="193.97426"
+       y="129.53934"
+       id="text9-8-2-7-6"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-9-3-9-5"
+         style="stroke-width:0.108134"
+         x="193.97426"
+         y="129.53934">sensor</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d51717;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#marker12)"
+       d="m 144.39934,75.05234 29.8255,2.472579"
+       id="path9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#path8" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d22323;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.60311,80.21431 29.60822,7.149302"
+       id="path11"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#path8-1" />
+    <g
+       id="g1"
+       transform="translate(-1.9461867,4.9437453)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+         x="132.17363"
+         y="77.429558"
+         id="text6-3"
+         transform="translate(-2.963789,-2.1887706)"><tspan
+           x="132.17363"
+           y="77.429558"
+           id="tspan22">DG56A</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="186.00075"
+       y="81.470848"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:0.265"
+         x="186.00075"
+         y="81.470848">55 Wats</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265"
+         x="186.00075"
+         y="85.439598"
+         id="tspan14">12 volts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="185.09415"
+       y="98.355583"
+       id="text13-1"><tspan
+         sodipodi:role="line"
+         id="tspan13-8"
+         style="stroke-width:0.265"
+         x="185.09415"
+         y="98.355583">5.5 Wats</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265"
+         x="185.09415"
+         y="102.32433"
+         id="tspan14-2">12 volts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="184.66797"
+       y="107.59242"
+       id="text13-80"><tspan
+         sodipodi:role="line"
+         id="tspan13-1"
+         style="stroke-width:0.265"
+         x="184.66797"
+         y="107.59242">15 Wats</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265"
+         x="184.66797"
+         y="111.56117"
+         id="tspan14-25">12 volts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="184.8112"
+       y="117.46662"
+       id="text13-83"><tspan
+         sodipodi:role="line"
+         id="tspan13-5"
+         style="stroke-width:0.265"
+         x="184.8112"
+         y="117.46662">55 Wats</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265"
+         x="184.8112"
+         y="121.43537"
+         id="tspan14-1">12 volts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="184.04103"
+       y="137.80482"
+       id="text13-4"><tspan
+         sodipodi:role="line"
+         id="tspan13-0"
+         style="stroke-width:0.265"
+         x="184.04103"
+         y="137.80482">260 mWats</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.265"
+         x="184.04103"
+         y="141.77357"
+         id="tspan14-6">5/3.3 volts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.06212px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#04ff1b;fill-opacity:1;stroke:#bdd517;stroke-width:0.756362;stroke-dasharray:none;stroke-opacity:1"
+       x="321.41083"
+       y="49.688465"
+       id="text15"
+       transform="scale(0.56897413,1.7575491)"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#04ff1b;fill-opacity:1;stroke:#bdd517;stroke-width:0.756367;stroke-opacity:1"
+         x="321.41083"
+         y="49.688465">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="116.51934"
+       y="91.022972"
+       id="text13-8"
+       transform="scale(1.0590782,0.94421735)"><tspan
+         sodipodi:role="line"
+         id="tspan13-2"
+         style="stroke-width:0.122356"
+         x="116.51934"
+         y="91.022972">1.6 Wats</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.122356"
+         x="116.51934"
+         y="92.855423"
+         id="tspan14-9">Min Switch Voltage: 6V</tspan></text>
+    <rect
+       style="fill:none;stroke-width:0.25887"
+       id="rect1-8-8"
+       width="18.348322"
+       height="8.5105066"
+       x="73.261154"
+       y="81.553474" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.259277;stroke-dasharray:none"
+       id="rect4-4"
+       width="23.609972"
+       height="10.736331"
+       x="70.241165"
+       y="74.69706" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6-0"
+       transform="matrix(0.99317437,0,0,0.96385139,-53.738141,3.696676)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan55">LDO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6-0-2"
+       transform="matrix(0.99317437,0,0,0.96385139,-27.700976,5.5386918)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan56">LDO</tspan></text>
+    <g
+       id="g2"
+       transform="matrix(0.99317437,0,0,0.96385139,-51.630407,9.4140847)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+         x="132.17363"
+         y="77.429558"
+         id="text6-3-3"
+         transform="translate(-2.963789,-2.1887706)"><tspan
+           x="132.17363"
+           y="77.429558"
+           id="tspan57">N/A</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6"
+       transform="matrix(1.0518494,0,0,0.9100852,53.807321,3.2556872)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan59"><tspan
+           style="stroke-width:0.122356"
+           id="tspan58">Output current: 5A, 12V</tspan></tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.150246px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 93.859786,79.58838 120.76405,78.671867"
+       id="path16"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.138357;stroke-dasharray:none"
+       id="rect4-4-3-4-7-5-6"
+       width="13.236104"
+       height="5.4533424"
+       x="141.64893"
+       y="115.83405" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.259277;stroke-dasharray:none"
+       id="rect4-4-3"
+       width="23.609972"
+       height="10.736331"
+       x="108.20271"
+       y="113.05804" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:14.1215;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6-0-7-3"
+       transform="matrix(0.87171969,0,0,0.62009417,-2.3799547,71.694503)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan60">MC3326 </tspan><tspan
+         x="132.17363"
+         y="81.398311"
+         id="tspan61">9D-012g  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6-0-7"
+       transform="matrix(0.99317437,0,0,0.96385139,-15.77659,42.057653)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan62">LDO</tspan></text>
+    <g
+       id="g2-6"
+       transform="matrix(0.99317437,0,0,0.96385139,-13.668856,47.775062)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+         x="132.17363"
+         y="77.429558"
+         id="text6-3-3-0"
+         transform="translate(-2.963789,-2.1887706)"><tspan
+           x="132.17363"
+           y="77.429558"
+           id="tspan64"><tspan
+             dx="0 2.7393677 2.2169187 2.0200319 2.0200319 2.0200319 2.020031 2.0200319 2.4448118 1.1456661 2.0200329 2.020031 2.020031"
+             id="tspan63">MC33269D-012G</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6"
+       transform="matrix(1.0582339,0,0,0.91001024,91.653309,41.623699)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan66"><tspan
+           style="stroke-width:0.122356"
+           id="tspan65">Output max current: </tspan></tspan><tspan
+         x="18.116636"
+         y="94.386448"
+         id="tspan68"><tspan
+           style="stroke-width:0.122356"
+           id="tspan67">800mA
+</tspan></tspan><tspan
+         x="18.116636"
+         y="96.218898"
+         id="tspan70"><tspan
+           style="stroke-width:0.122356"
+           id="tspan69">Vout = 12V</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6-4"
+       transform="matrix(1.0582339,0,0,0.91001024,122.75243,45.883977)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan71">A microprocesador
+</tspan></text>
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect1-8-1-4"
+       width="18.474422"
+       height="8.8296871"
+       x="71.262314"
+       y="90.271507" />
+    <rect
+       style="fill:none;stroke-width:0.25887"
+       id="rect1-8-8-7-1"
+       width="18.348322"
+       height="8.5105066"
+       x="58.823624"
+       y="101.52592" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.259277;stroke-dasharray:none"
+       id="rect4-4-3-4"
+       width="23.609972"
+       height="10.736331"
+       x="55.803635"
+       y="94.669487" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.138357;stroke-dasharray:none"
+       id="rect4-4-3-4-7"
+       width="13.236104"
+       height="5.4533424"
+       x="89.977722"
+       y="93.901764" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.138357;stroke-dasharray:none"
+       id="rect4-4-3-4-7-5-4"
+       width="13.236104"
+       height="5.4533424"
+       x="100.96263"
+       y="76.586662" />
+    <rect
+       style="fill:#d4b100;fill-opacity:1;stroke-width:0.138357;stroke-dasharray:none"
+       id="rect4-4-3-4-7-5"
+       width="13.236104"
+       height="5.4533424"
+       x="90.023865"
+       y="104.47121" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:15.7002;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="108.1297"
+       y="79.195503"
+       id="text32-2"
+       transform="matrix(0.43848081,0,0,0.90182205,46.376973,36.896887)"><tspan
+         x="108.1297"
+         y="79.195503"
+         id="tspan73"><tspan
+           style="stroke-width:0.265"
+           id="tspan72">Transistor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:15.7002;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="108.1297"
+       y="79.195503"
+       id="text32-29"
+       transform="matrix(0.43848081,0,0,0.90182205,98.239337,48.703747)"><tspan
+         x="108.1297"
+         y="79.195503"
+         id="tspan75"><tspan
+           style="stroke-width:0.265"
+           id="tspan74">Transistor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:14.1215;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6-0-7-3-3"
+       transform="matrix(0.99823421,0,0,0.62009417,-71.526244,53.305969)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan76">MC3326 </tspan><tspan
+         x="132.17363"
+         y="81.398311"
+         id="tspan77">9D-012g  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:11.9938;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="132.17363"
+       y="77.429558"
+       id="text6-0-7-8"
+       transform="matrix(0.99317437,0,0,0.96385139,-68.17567,23.669119)"><tspan
+         x="132.17363"
+         y="77.429558"
+         id="tspan78">LDO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6-8"
+       transform="matrix(1.0582339,0,0,0.91001024,39.25423,23.235165)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan80"><tspan
+           style="stroke-width:0.122356"
+           id="tspan79">Output max current: </tspan></tspan><tspan
+         x="18.116636"
+         y="94.386448"
+         id="tspan82"><tspan
+           style="stroke-width:0.122356"
+           id="tspan81">800mA
+</tspan></tspan><tspan
+         x="18.116636"
+         y="96.218898"
+         id="tspan84"><tspan
+           style="stroke-width:0.122356"
+           id="tspan83">Vout = 12V</tspan></tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.59444,118.33894 h 10.0857"
+       id="path22"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.93564,118.43499 20.65168,0.28816"
+       id="path23"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.88421,121.31662 0.0961,7.20408"
+       id="path24"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6-4-8"
+       transform="matrix(1.0582339,0,0,0.91001024,80.766547,1.4796766)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan85">A microprocesador
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6-4-89"
+       transform="matrix(1.0582339,0,0,0.91001024,70.379876,18.169725)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan86">A microprocesador
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6-4-6"
+       transform="matrix(1.0582339,0,0,0.91001024,70.140618,28.903098)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan87">A microprocesador
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="122.63194"
+       y="150.39166"
+       id="text31-2"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-1"
+         style="stroke-width:0.199302"
+         x="122.63194"
+         y="150.39166">B</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 78.923818,98.552893 89.926966,96.583192"
+       id="path25"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.127582,101.33764 10.867305,6.18078"
+       id="path26"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 96.685075,109.86168 v 1.42634"
+       id="path27"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.228439,99.367939 0.03396,1.630101"
+       id="path28"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.35446,96.342495 72.80919,2.977684"
+       id="path29"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.0663,106.81242 71.0843,2.07041"
+       id="path30"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#path8-1-1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.25323,82.0304 v 2.209249"
+       id="path31"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="89.28553"
+       y="102.0284"
+       id="text31"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="stroke-width:0.199302"
+         x="89.28553"
+         y="102.0284">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="80.824852"
+       y="95.654305"
+       id="text31-5"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4"
+         style="stroke-width:0.199302"
+         x="80.824852"
+         y="95.654305">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="71.782784"
+       y="115.93267"
+       id="text31-5-6"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-7"
+         style="stroke-width:0.199302"
+         x="71.782784"
+         y="115.93267">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="71.877792"
+       y="128.66199"
+       id="text31-5-9"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-3"
+         style="stroke-width:0.199302"
+         x="71.877792"
+         y="128.66199">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="113.44376"
+       y="142.48865"
+       id="text31-5-9-8"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-3-2"
+         style="stroke-width:0.199302"
+         x="113.44376"
+         y="142.48865">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="80.120613"
+       y="122.97756"
+       id="text31-8"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-6"
+         style="stroke-width:0.199302"
+         x="80.120613"
+         y="122.97756">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="79.707848"
+       y="135.83514"
+       id="text31-9"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-2"
+         style="stroke-width:0.199302"
+         x="79.707848"
+         y="135.83514">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:15.7002;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="108.1297"
+       y="79.195503"
+       id="text32"
+       transform="matrix(0.43848081,0,0,0.90182205,57.1981,8.6438934)"><tspan
+         x="108.1297"
+         y="79.195503"
+         id="tspan89"><tspan
+           style="stroke-width:0.265"
+           id="tspan88">Transistor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:15.7002;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="108.1297"
+       y="79.195503"
+       id="text32-9"
+       transform="matrix(0.43848081,0,0,0.90182205,46.350483,26.19615)"><tspan
+         x="108.1297"
+         y="79.195503"
+         id="tspan91"><tspan
+           style="stroke-width:0.265"
+           id="tspan90">Transistor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="94.020676"
+       y="95.336472"
+       id="text31-5-0"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-8"
+         style="stroke-width:0.199302"
+         x="94.020676"
+         y="95.336472">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="85.323189"
+       y="115.24861"
+       id="text31-5-0-6"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-8-1"
+         style="stroke-width:0.199302"
+         x="85.323189"
+         y="115.24861">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="85.112465"
+       y="128.88054"
+       id="text31-5-0-5"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-8-3"
+         style="stroke-width:0.199302"
+         x="85.112465"
+         y="128.88054">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.38786px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0404;fill-opacity:1;stroke:#bdd517;stroke-width:0.199301;stroke-dasharray:none;stroke-opacity:1"
+       x="127.56578"
+       y="142.67845"
+       id="text31-5-0-3"
+       transform="scale(1.2178273,0.8211345)"><tspan
+         sodipodi:role="line"
+         id="tspan31-4-8-6"
+         style="stroke-width:0.199302"
+         x="127.56578"
+         y="142.67845">E</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 128.84551,72.675117 -0.13584,-8.354243"
+       id="path32"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.46596px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:19.8036;display:inline;fill:#d4b100;fill-opacity:1;stroke:#d51717;stroke-width:0.122355;stroke-dasharray:none;stroke-opacity:1"
+       x="18.116636"
+       y="92.553993"
+       id="text13-8-6-6-4-8-1"
+       transform="matrix(1.0582339,0,0,0.91001024,99.409025,-20.896314)"><tspan
+         x="18.116636"
+         y="92.553993"
+         id="tspan92">Control Relé, pensar como</tspan></text>
+    <rect
+       style="fill:#1f1f1f;fill-opacity:1;stroke-width:0.164024;stroke-dasharray:none"
+       id="rect6-0"
+       width="10.323942"
+       height="30.184486"
+       x="35.306034"
+       y="66.380112" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:12.4046;display:inline;fill:#f7f7f7;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="175.50702"
+       y="146.02943"
+       id="text7-3"
+       transform="matrix(0.81088559,0,0,1.4052452,-105.85651,-111.9976)"><tspan
+         x="175.50702"
+         y="146.02943"
+         id="tspan93">Input</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-2"
+       cx="40.366123"
+       cy="71.474159"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="42.443916"
+       y="69.502228"
+       id="text9-9"
+       transform="scale(0.90591297,1.1038588)"><tspan
+         sodipodi:role="line"
+         id="tspan9-34"
+         style="stroke-width:0.108134"
+         x="42.443916"
+         y="69.502228">Vin</tspan></text>
+    <ellipse
+       style="fill:#f1f1f1;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       id="path8-1-4"
+       cx="40.292591"
+       cy="81.765518"
+       rx="2.9545491"
+       ry="3.2601922" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.29556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f1f1f1;fill-opacity:1;stroke-width:0.108133;stroke-dasharray:none"
+       x="42.362755"
+       y="78.82531"
+       id="text9-8-0"
+       transform="scale(0.90591297,1.1038588)"
+       inkscape:label="text9-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan9-9-5"
+         style="stroke-width:0.108134"
+         x="42.362755"
+         y="78.82531">GND</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.229218,72.278815 27.178607,7.638389"
+       id="path33"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path8-2"
+       inkscape:label="path33" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.179818,73.865781 48.891656,99.608344"
+       id="path34"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 56.09573,99.800451 48.795601,99.320179"
+       id="path35"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 108.53723,118.72533 -59.362664,0.27168"
+       id="path37"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.902881,99.367939 0.339604,19.425311"
+       id="path38"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
