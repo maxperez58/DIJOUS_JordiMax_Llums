@@ -32,3 +32,7 @@ DIJOUS_JordiMax_Llums
 | Data | Autor | Branch | Descripció |
 |------|------|--------|------------| 
 | 2025-03-17 | Max Pérez | `main` | Creació del projecte |
+| 2025-03-17 | Max Pérez | `Diagrama-Bloques` | LDO y output select stage |
+| 2025-03-18 | Max Pérez | `Diagrama-Bloques` | Conexiones básicas micro|
+| 2025-03-18 | Max Pérez |  `Diagrama-Bloques` |Bloque transceiver, safe input y Clock|
+| 2025-03-18 | Max Pérez |  `Diagrama-Bloques` |Mejora estética|
