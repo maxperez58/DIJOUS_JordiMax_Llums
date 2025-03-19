@@ -36,4 +36,6 @@ DIJOUS_JordiMax_Llums
 | 2025-03-18 | Max Pérez | `Diagrama-Bloques` | Conexiones básicas micro|
 | 2025-03-18 | Max Pérez |  `Diagrama-Bloques` |Bloque transceiver, safe input y Clock|
 | 2025-03-18 | Max Pérez |  `Diagrama-Bloques` |Mejora estética|
-| 2025-03-10 | Jordi Godàs |  `Diagrama-Bloques` |Acabar el diagrama de blocs|
+| 2025-03-19 | Jordi Godàs |  `Diagrama-Bloques` |Acabar el diagrama de blocs|
+| 2025-03-19 | Jordi Godàs |  `Diagrama-Bloques` |Acabar el power point de la presentació|
+
