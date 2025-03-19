@@ -2,7 +2,7 @@ DIJOUS_JordiMax_Llums
 
 ## Autors
 - Max Pérez (@maxperez58)
-- Nom 2 (@usuariGitHub)
+- Jordi Godàs (@Jordi_Godas)
 
 ## Versió - v1.0 ## Curs - Assignatura de Disseny de PCBs amb KiCad - [Curs 2024-2025]
 
@@ -36,3 +36,4 @@ DIJOUS_JordiMax_Llums
 | 2025-03-18 | Max Pérez | `Diagrama-Bloques` | Conexiones básicas micro|
 | 2025-03-18 | Max Pérez |  `Diagrama-Bloques` |Bloque transceiver, safe input y Clock|
 | 2025-03-18 | Max Pérez |  `Diagrama-Bloques` |Mejora estética|
+| 2025-03-10 | Jordi Godàs |  `Diagrama-Bloques` |Acabar el diagrama de blocs|
