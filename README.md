@@ -43,4 +43,5 @@ DIJOUS_JordiMax_Llums
 | 2025-03-21 | Max Pérez |  `Esquemático` |Creación esquemático 1.0|
 | 2025-03-21 | Max Pérez |  `Esquemático` |Bloques Clock, Communication, Digital Esquemático 1.0|
 | 2025-03-21 | Max Pérez |  `Esquemático` |Bloques Input, Sensor, Power Esquemático 1.0|
-
+| 2025-03-22 | Max Pérez |  `Esquemático` |Mejora etapa Power cambiando DC/DC + LDO por Buck|
+| 2025-03-21 | Max Pérez |  `Esquemático` |Capacidades desacoplo, comentar esquemático y bloque output|
