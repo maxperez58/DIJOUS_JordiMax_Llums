@@ -25,8 +25,8 @@ DIJOUS_JordiMax_Llums
 |------------|--------------------|---------|----------|----------|---------|
 | Díode | 1N1418 |DO-35| https://diotec.com/request/datasheet/1n4148.pdf| Mouser | 1 |
 | Buck converter | LM2596T |TO-220| (http://www.ti.com/lit/ds/symlink/lm2596.pdf)| Texas Instruments | 1 |
-| LDO | LM2596T |SMD| (https://www.mouser.es/datasheet/2/609/ADM7172-3121160.pdf)| Mouser | 1 |
-| LDO | ADP7112ACBZ |SMD| (https://www.mouser.es/datasheet/2/609/ADM7172-3121160.pdf)| Mouser | 1 |
+| LDO | ADM7172 |SMD| (https://www.mouser.es/datasheet/2/609/ADM7172-3121160.pdf)| Mouser | 1 |
+| LDO | ADP7112ACBZ |SMD| https://www.mouser.es/datasheet/2/609/ADP7112-3121706.pdf| Mouser | 1 |
 | Microcontrolador | PIC18F2580 |SMD| https://docs.rs-online.com/eeae/0900766b813831c4.pdf| Mouser | 1 |
 | Transciever | MCP2551 |SMD| https://www.mouser.es/datasheet/2/268/20001667G-3441642.pdf| Mouser | 1 |
 | NMOS | Si7336ADP |SMD| https://www.vishay.com/docs/73152/si7336adp.pdf| Mouser | 4 |
