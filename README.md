@@ -23,7 +23,7 @@ DIJOUS_JordiMax_Llums
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
-| Exemple | XYZ1234 | SOT-23 | [Enllaç](https://...) | DigiKey | 2 |
+| Díode | 1N1418 |DO-35| [Enllaç][(https://diotec.com/request/datasheet/1n4148.pdf)]| Mouser | 1 |
 
 ## Funcionalitats
 - [ ] Funció 1
