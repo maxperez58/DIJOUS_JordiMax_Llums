@@ -30,7 +30,7 @@ DIJOUS_JordiMax_Llums
 | Microcontrolador | PIC18F2580 |SMD| https://docs.rs-online.com/eeae/0900766b813831c4.pdf| Mouser | 1 |
 | Transciever | MCP2551 |SMD| https://www.mouser.es/datasheet/2/268/20001667G-3441642.pdf| Mouser | 1 |
 | NMOS | Si7336ADP |SMD| https://www.vishay.com/docs/73152/si7336adp.pdf| Mouser | 4 |
-| NPN | ZXTN19020DFFTA | https://www.diodes.com/assets/Datasheets/ZXTN19020DFF.pdf| Mouser | 4 |
+| NPN | ZXTN19020DFFTA |SMD| https://www.diodes.com/assets/Datasheets/ZXTN19020DFF.pdf| Mouser | 4 |
 | Relay |  | |  | 1 |
 
 
