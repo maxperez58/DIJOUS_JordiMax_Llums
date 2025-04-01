@@ -7856,7 +7856,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 138.43) (xy 19.05 142.24)
+			(xy 19.05 139.7) (xy 19.05 142.24)
 		)
 		(stroke
 			(width 0)
@@ -8454,6 +8454,16 @@
 		)
 		(uuid "35ef89b8-75ad-4823-ac7f-70668d475cda")
 	)
+	(polyline
+		(pts
+			(xy 287.528 147.574) (xy 407.924 147.574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "363c2416-3f85-4820-9f2a-d3253ff80566")
+	)
 	(wire
 		(pts
 			(xy 95.25 153.67) (xy 95.25 154.94)
@@ -8653,6 +8663,26 @@
 			(type default)
 		)
 		(uuid "3db92ee3-6440-45a0-9a27-169f82bae54e")
+	)
+	(polyline
+		(pts
+			(xy 121.5151 11.8822) (xy 121.5151 284.9426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dd3c904-6cbe-4de9-a581-af41be3201e2")
+	)
+	(polyline
+		(pts
+			(xy 11.938 179.832) (xy 121.412 179.832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f685fb0-9e50-452e-aa27-182e1a9c0c1c")
 	)
 	(wire
 		(pts
@@ -8866,7 +8896,7 @@
 	)
 	(polyline
 		(pts
-			(xy 11.938 84.328) (xy 117.027 84.3391)
+			(xy 11.684 85.852) (xy 287.5682 85.8493)
 		)
 		(stroke
 			(width 0)
@@ -8953,6 +8983,16 @@
 			(type default)
 		)
 		(uuid "50e402c8-cca7-47a1-9405-4b6910494eda")
+	)
+	(polyline
+		(pts
+			(xy 287.528 57.912) (xy 407.924 57.912)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51d9e58f-e0cb-4f7f-9762-49b456d50e2b")
 	)
 	(wire
 		(pts
@@ -9133,6 +9173,16 @@
 			(type default)
 		)
 		(uuid "5d8177b1-0d0d-4433-a54e-744407069696")
+	)
+	(polyline
+		(pts
+			(xy 12.192 230.378) (xy 287.528 230.378)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5def2932-6c6f-4add-bca4-08582e1fe372")
 	)
 	(wire
 		(pts
@@ -9574,16 +9624,6 @@
 		)
 		(uuid "825dd929-0424-48fa-b15d-3e91fb1e2b9e")
 	)
-	(polyline
-		(pts
-			(xy 11.938 180.34) (xy 117.094 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "831d879a-e5c2-41b8-bc45-5c9349501c3d")
-	)
 	(wire
 		(pts
 			(xy 142.24 130.81) (xy 143.51 130.81)
@@ -9734,6 +9774,16 @@
 		)
 		(uuid "8b95333a-87b5-4498-b6b4-cbebc6d719fb")
 	)
+	(polyline
+		(pts
+			(xy 120.7908 284.9426) (xy 121.5151 284.9426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bfaa62e-e44c-4eb7-b913-3a5aed0eecf9")
+	)
 	(wire
 		(pts
 			(xy 35.56 154.94) (xy 40.64 154.94)
@@ -9844,16 +9894,6 @@
 		)
 		(uuid "99e9a786-ffe8-4662-9870-4ab14cfb6702")
 	)
-	(polyline
-		(pts
-			(xy 117.094 180.086) (xy 117.094 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a3e1d58-9c5c-416b-9731-6e45e6422ea5")
-	)
 	(wire
 		(pts
 			(xy 266.7 33.02) (xy 270.51 33.02)
@@ -9863,6 +9903,16 @@
 			(type default)
 		)
 		(uuid "9b25ce04-0eba-4d86-849d-18d206733445")
+	)
+	(polyline
+		(pts
+			(xy 407.924 57.912) (xy 407.924 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b8b3371-2081-4c1f-9325-1d6da4afb873")
 	)
 	(wire
 		(pts
@@ -10274,6 +10324,16 @@
 		)
 		(uuid "b568b738-fbb2-445d-b200-473ab02b2e20")
 	)
+	(polyline
+		(pts
+			(xy 287.528 147.828) (xy 287.528 147.574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b734087e-3de7-463b-be9f-34c5b1b67693")
+	)
 	(wire
 		(pts
 			(xy 316.23 195.58) (xy 317.5 195.58)
@@ -10513,6 +10573,16 @@
 			(type default)
 		)
 		(uuid "c86f9110-28f3-4560-9ac4-b90d624d6e17")
+	)
+	(polyline
+		(pts
+			(xy 287.528 283.9518) (xy 287.528 12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c983cdf2-c0f2-4382-bbaf-70a73ae7cb58")
 	)
 	(wire
 		(pts
@@ -11334,79 +11404,6 @@
 		)
 		(uuid "fe72c7b3-2e7e-448f-b0cc-0e87fedf15ce")
 	)
-	(rectangle
-		(start 117.2426 12.0066)
-		(end 291.592 91.4134)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 3ee6ae84-7e89-477d-9fb4-e4617e872ce3)
-	)
-	(rectangle
-		(start 12.042 12.0042)
-		(end 117.2162 284.482)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 4f94edbd-ec23-4979-8dc0-8bb4d4a37705)
-	)
-	(arc
-		(start 23.368 140.716)
-		(mid 37.6611 132.1174)
-		(end 53.848 136.144)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 61a829a3-7db1-4746-83c8-04268b1c3cba)
-	)
-	(rectangle
-		(start 12.0217 229.6132)
-		(end 291.592 284.4772)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 98b13726-9e1f-4838-b592-16cdab102b00)
-	)
-	(rectangle
-		(start 291.592 59.69)
-		(end 407.924 146.304)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid bdf6ff9b-d1bc-433d-924a-98e86d8a2a9d)
-	)
-	(rectangle
-		(start 291.592 146.304)
-		(end 407.924 252.984)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid e7cb0623-de8e-4d7d-9bf9-5574bcd98031)
-	)
 	(text "Max current = 14.5 mA\nMax voltage = 40V"
 		(exclude_from_sim no)
 		(at 67.056 218.44 0)
@@ -11536,7 +11533,7 @@
 	)
 	(text "Splitting capacitors,\n2 Near VREF1 and VREF2\n\n\n\n"
 		(exclude_from_sim no)
-		(at 21.59 145.796 0)
+		(at 20.828 143.256 0)
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -11624,7 +11621,7 @@
 	)
 	(text "Communication"
 		(exclude_from_sim no)
-		(at 138.176 236.22 0)
+		(at 151.13 236.982 0)
 		(effects
 			(font
 				(size 3 3)
@@ -11766,7 +11763,7 @@
 	)
 	(text "(near the motor)\n"
 		(exclude_from_sim no)
-		(at 67.31 185.42 0)
+		(at 58.42 184.658 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11896,7 +11893,7 @@
 	)
 	(text "For \"A\" turn mode, turn on Motor_in1, turn off Motor_in2.\nFor \"B\" turn mode, turn on Motor_in2, turn off Motor_in1.\nFor turn off the motor, turn off Motor_in1 and Motor_in2"
 		(exclude_from_sim no)
-		(at 345.694 151.384 0)
+		(at 346.964 152.654 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12817,28 +12814,6 @@
 			)
 		)
 	)
-	(global_label "MCLR"
-		(shape output)
-		(at 76.2 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "6471055c-cd78-4a77-b880-2788268dcf44")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.6035 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Motor_in2"
 		(shape input)
 		(at 316.23 195.58 180)
@@ -13258,6 +13233,29 @@
 		(uuid "a2f6f054-d4e1-46b3-81b8-d1d1646ec535")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 51.6477 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MCLR"
+		(shape output)
+		(at 76.2 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.125)
+			)
+			(justify left)
+		)
+		(uuid "a71d8a9f-35ef-43f0-8ea3-7456655a84b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.5935 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21916,7 +21914,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 19.05 138.43 0)
+		(at 19.05 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21924,7 +21922,7 @@
 		(dnp no)
 		(uuid "8a2548e6-d760-4bf7-81c7-1f9b92468ee7")
 		(property "Reference" "#PWR01"
-			(at 19.05 142.24 0)
+			(at 19.05 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21933,7 +21931,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 22.098 135.636 0)
+			(at 22.098 136.906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21941,7 +21939,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 19.05 138.43 0)
+			(at 19.05 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21950,7 +21948,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 19.05 138.43 0)
+			(at 19.05 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21959,7 +21957,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 19.05 138.43 0)
+			(at 19.05 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
