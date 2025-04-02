@@ -61,3 +61,4 @@ DIJOUS_JordiMax_Llums
 | 2025-03-25 | Max Pérez |  `main` |Simulación Power stage (1 buck y 2 LDO) v2 y simulación Puente H|
 | 2025-03-29 | Max Pérez |  `main` |simulación Puente H v2|
 | 2025-03-31 | Max Pérez |  `main` |Placement algunos componentes, separación planos masa y potencia. Routing Transciever, puente H y algun Input Output|
+| 2025-04-02 | Max Pérez |  `main` |GND de SMD + algun ruteo puntual. DRC sin errores|
