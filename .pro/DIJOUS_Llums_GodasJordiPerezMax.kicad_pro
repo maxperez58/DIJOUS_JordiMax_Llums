@@ -58,7 +58,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_issues|108858000|92548000|e0466402-022e-4d78-8268-8a70e5e347c5|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|124732400|44577000|89d0ef70-3d7e-4166-a654-ee3731036793|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|145925400|61797400|11495aba-0dd2-4e80-ad83-826847f60876|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|149023400|73553600|986b62ba-8566-4378-94a7-e37ca4aea111|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|64231001|68493353|d64cd5b2-80c7-4a16-90b8-cd7feab8efdc|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|64358001|45125353|7357790e-cac3-479c-9f72-57d6dda9db5f|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|74600000|58600000|f99958ed-c871-4f0a-b91b-07521631dc06|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|75311000|42926000|d7933c25-750d-4bec-82fa-df0cfbbdb67d|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|75313499|48004400|3f326506-c143-4970-8c90-26c8595db072|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|75438000|53655500|666f6755-6af1-4769-a04c-3915701bf426|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|75501500|38228600|000efbec-54a6-49b8-8626-5b10b0646a58|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|78867000|69299899|d6a7c217-fdd5-47b2-ac8c-df48b0a99c43|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -116,19 +129,19 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.25,
+        "min_clearance": 0.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.2,
+        "min_microvia_diameter": 0.15,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.25,
+        "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -451,7 +464,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.14,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -468,7 +481,41 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.14,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "+12V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.6,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.14,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "+3.3V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.14,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -491,8 +538,16 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
+        "netclass": "+12V",
+        "pattern": "+12V"
+      },
+      {
         "netclass": "+Vcc",
-        "pattern": "+Vcc"
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "+3.3V",
+        "pattern": "+3.3V"
       }
     ]
   },
