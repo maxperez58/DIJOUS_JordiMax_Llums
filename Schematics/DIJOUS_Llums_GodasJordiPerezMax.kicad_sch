@@ -8562,6 +8562,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 22.86) (xy 266.7 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "370fd723-f670-4821-bb94-ea9dc2b172ba")
+	)
+	(wire
+		(pts
 			(xy 339.09 179.07) (xy 339.09 184.15)
 		)
 		(stroke
@@ -10899,6 +10909,16 @@
 			(type default)
 		)
 		(uuid "d0bc5ebd-163f-4f18-aec7-174dbe2db469")
+	)
+	(wire
+		(pts
+			(xy 274.32 22.86) (xy 274.32 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d105ff1d-2b5d-4b9c-af6f-214c6458c68a")
 	)
 	(wire
 		(pts
@@ -14914,7 +14934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 220.98 20.828 90)
 			(effects
 				(font
@@ -17352,6 +17372,71 @@
 			(project "DIJOUS_Llums_GodasJordiPerezMax"
 				(path "/572cad61-fefa-4039-8286-3cbe6ea7f51a"
 					(reference "#PWR097")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 266.7 22.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3e55bcee-c617-4534-80d6-d1297d6a7cbf")
+		(property "Reference" "#PWR029"
+			(at 266.7 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 261.366 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 266.7 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25712e84-491c-44cf-a38f-6746d43ea893")
+		)
+		(instances
+			(project "DIJOUS_Llums_GodasJordiPerezMax"
+				(path "/572cad61-fefa-4039-8286-3cbe6ea7f51a"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -20079,6 +20164,72 @@
 			(project "DIJOUS_Llums_GodasJordiPerezMax"
 				(path "/572cad61-fefa-4039-8286-3cbe6ea7f51a"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 274.32 22.86 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6b9c7aa5-49f8-4fb3-9e4e-747d8dd855ee")
+		(property "Reference" "#PWR0102"
+			(at 274.32 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 277.368 23.368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 274.32 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 274.32 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a80721f9-ffae-4b35-9113-28dfd9d8f139")
+		)
+		(instances
+			(project "DIJOUS_Llums_GodasJordiPerezMax"
+				(path "/572cad61-fefa-4039-8286-3cbe6ea7f51a"
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -26495,6 +26646,74 @@
 			(project "DIJOUS_Llums_GodasJordiPerezMax"
 				(path "/572cad61-fefa-4039-8286-3cbe6ea7f51a"
 					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 270.51 20.32 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ece2b2a6-f032-41a7-ba5c-f5724a4ed630")
+		(property "Reference" "R48"
+			(at 270.51 13.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 270.51 16.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 270.51 22.098 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 270.51 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 270.51 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a7f7c42-e9c0-4a1f-b941-23c0eb755c76")
+		)
+		(pin "2"
+			(uuid "5fa36b43-9a47-499e-b892-878e70d42150")
+		)
+		(instances
+			(project "DIJOUS_Llums_GodasJordiPerezMax"
+				(path "/572cad61-fefa-4039-8286-3cbe6ea7f51a"
+					(reference "R48")
 					(unit 1)
 				)
 			)
