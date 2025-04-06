@@ -71,5 +71,9 @@ DIJOUS_JordiMax_Llums
 | 2025-04-02 | Max Pérez |  `main` |GND de SMD + algun ruteo puntual. DRC sin errores|
 | 2025-04-03 | Jordi Godàs |  `main` | Cambio del LDO-3.3V y placement en el esquematico |
 | 2025-04-03 | Jordi Godàs |  `main` | Update readme |
+| 2025-04-06 | Jordi Godàs |  `main` | Update pcb, bigger paths and better organitzation |
+| 2025-04-06 | Jordi Godàs |  `main` | Update schemetatic, minor changes |
+
+
 
 
