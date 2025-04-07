@@ -21,7 +21,7 @@ L'objectiu d'aquest projecte és la realització d'un sistema de control per els
 - Sensor digital de llum, per activar les llums.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
-![image](C:\Users\Max\Pictures\Screenshots\diagramadeblocs.png)
+![image](C://Users/Max/Pictures/Screenshots/diagramadeblocs.png)
 
 
 
