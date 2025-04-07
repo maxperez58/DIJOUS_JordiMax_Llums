@@ -92,7 +92,7 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 | 2025-04-06 | Jordi Godàs |  `main` | Update pcb, bigger paths and better organitzation |
 | 2025-04-06 | Jordi Godàs |  `main` | Update schemetatic, minor changes |
 | 2025-04-07 | Jordi Godàs |  `main` | Finished layout, ERC passed |
-| 2025-04-07 | Max Pérez |  `main` | Update readme |
+| 2025-04-07 | Max Pérez |  `main` | Update readme: update componentes usados + diagrama bloques i funcionalidades secciones|
 
 
 
