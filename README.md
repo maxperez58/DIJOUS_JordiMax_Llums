@@ -10,6 +10,8 @@ DIJOUS_JordiMax_Llums
 
 ## Objectiu Descripció breu de l'objectiu del projecte.
 
+L'objectiu d'aquest projecte és la realització d'un sistema de control per els diferents tipus de llums d'un vehícle automòvil. A més a més, s'ha incorporat un motor per al control de l'escombreta neteja-fars.
+
 ## Requisits i especificacions
 - Llums curtes.
 - Llums d'encreuament.
@@ -19,6 +21,9 @@ DIJOUS_JordiMax_Llums
 - Sensor digital de llum, per activar les llums.
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
+![image](C:\Users\Max\Pictures\Screenshots\diagramadeblocs.png)
+
+
 
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
@@ -74,8 +79,7 @@ DIJOUS_JordiMax_Llums
 | 2025-04-06 | Jordi Godàs |  `main` | Update pcb, bigger paths and better organitzation |
 | 2025-04-06 | Jordi Godàs |  `main` | Update schemetatic, minor changes |
 | 2025-04-07 | Jordi Godàs |  `main` | Finished layout, ERC passed |
-
-
+| 2025-04-07 | Max Pérez |  `main` | Update readme |
 
 
 
