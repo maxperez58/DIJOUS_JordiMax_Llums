@@ -33,26 +33,35 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 | LDO-5V | ADM7172ACPZ-5.0-R7 |SMD| [ADM7172ACPZ-5.0-R7](https://www.mouser.es/datasheet/2/609/ADM7172-3121160.pdf)| Mouser | 1 |
 | LDO-3.3V | ADP7112ACBZ-3.3-R7 |SMD| [ADP7112ACBZ-3.3-R7 ](https://www.mouser.es/datasheet/2/609/ADP7112-3121706.pdf)| Mouser | 1 |
 | Sensor de llum | BH1750FVI-TR |SMD| [BH1750FVI-TR](https://www.mouser.com/catalog/specsheets/Rohm_11162017_ROHMS34826-1.pdf)| Mouser | 1 |
-| Relé | G5LE-1 DC12 |TO-220| [G5LE-1 DC12](https://www.mouser.es/datasheet/2/307/en_g5le-3447037.pdf)| Mouser | 1 |
+| Relé | G5LE-1 DC12 |TO-220| [G5LE-1 DC12](https://www.mouser.es/datasheet/2/307/en_g5le-3447037.pdf)| Mouser | 2 |
 | Buck converter | LM2596T-ADJ |SMD| [LM2596T-ADJ](https://www.ti.com/lit/ds/symlink/lm2596.pdf)| Texas Instruments | 1 |
 | Transciever| MCP2551-I-SN |SMD| [MCP2551-I-SN](https://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf) | Texas Instruments | 1 |
 | Microcontrolador | PIC18F2580-I/SO |SMD| [PIC18F2580-I/SO](https://www.mouser.es/datasheet/2/268/39637d-3443674.pdf) | Mouser | 1 |
-| Transistor BJT | Si7336ADP |SMD| [Si7336ADP](https://www.vishay.com/docs/73152/si7336adp.pdf)| Mouser | 4 |
-| Transistor MOS | ZXTN19020DFFTA |SMD| [ZXTN19020DFFTA](https://www.diodes.com/assets/Datasheets/ZXTN19020DFF.pdf) | Mouser | 5 |
+| Transistor NMOS | Si7336ADP |SMD| [Si7336ADP](https://www.vishay.com/docs/73152/si7336adp.pdf)| Mouser | 4 |
+| Transistor BJT | ZXTN19020DFFTA |SMD| [ZXTN19020DFFTA](https://www.diodes.com/assets/Datasheets/ZXTN19020DFF.pdf) | Mouser | 5 |
 | Traductor (3.3V-5V) | PCA9306D |SMD|[PCA9306D](https://www.ti.com/lit/ds/symlink/pca9306.pdf?ts=1743021004009&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FPCA9306) | Mouser | 1 |
 | Sensor hall | TMAG5124G1CEDBZRQ1 |SMD| [TMAG5124G1CEDBZRQ1](https://www.ti.com/lit/ds/symlink/tmag5124-q1.pdf?ts=1743694512003&ref_url=https%253A%252F%252Fwww.mouser.es%252F) | Mouser | 1 |
 | OPAMP's | LT6202CS5 |SMD| [LT6202CS5](https://www.mouser.es/datasheet/2/609/620234fd-2955338.pdf) | Mouser | 1 |
 | Voltage Regulator | TLV1117-33 |SMD| [TLV1117-33](http://www.ti.com/lit/ds/symlink/tlv1117.pdf) | Mouser | 1 |
 | Cristall | XT9M20ANA8M |SMD| [XT9M20ANA8M](https://datasheet.octopart.com/XT9M20ANA8M-Vishay-datasheet-41303490.pdf) | Mouser | 1 |
+| Inductance | Ms 42 / 47 µH |SMD| [Ms 42 / 47 µH](https://neosid.de/import-data/product-pdf/neoFestind_Ms42.pdf) | Mouser | 1 |
+| Diode | 1N4002 |THT| [1N4002](https://diotec.com/request/datasheet/1n4001.pdf) | Mouser | 1 |
+| Diode | 1N5817 |THT| [1N5817](http://www.vishay.com/docs/88525/1n5817.pdf) | Mouser | 4 |
+| LED | APTR3216PGW |SMD| [APTR3216PGW](https://www.mouser.es/datasheet/2/216/kingbright_kngbd00006-5-1736195.pdf) | Mouser | 2 |
+| Zener diode | BZX84C39 |SMD| [BZX84C39](https://diotec.com/request/datasheet/bzx84c2v4.pdf) | Mouser | 1 |
+| Diode | 1N4148 |THT| [1N4148](https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf) | Mouser | 1 |
+| Diode Schottky | SS3P5HM3/84A |SMD| [SS3P5HM3/84A](https://www.vishay.com/docs/88944/ss3p3.pdf) | Mouser | 1 |
 
-
-
-
-
-## Funcionalitats
-- [ ] Funció 1
-- [ ] Funció 2
-- [ ] Funció 3
+## Funcionalitats de les diverses seccions del nostre circuit
+- [ ] Secció 1: secció de Power que converteix els 12 volts de VBAT a 5 volts per +Vcc i els 3.3 volts pel sensor.
+- [ ] Secció 2: resistències pull-down a l'input per evitar una entrada descontrolada en cas de no connexió.
+- [ ] Secció 3: secció del sensor amb traductor de nivell per garantir la bona comunicació entre sensor i microcontrolador.
+- [ ] Secció 4: Etapa d'entrada del sensor Hall, el qual està destinat a comptar les voltes del motor.
+- [ ] Secció 5: Etapa de comunicacions basada en un transciever el qual serveix per connectar el micro a un bus CAN.
+- [ ] Secció 6: Etapa digital, formada pel micro i els seus I/0 + ICSP + Clock
+- [ ] Secció 7: Pont-H + resistència Shunt, que controlen el sentit de gir del motor i detecten possibles pics de tensió
+- [ ] Secció 8: etapa de selecció, on segons el corrent de base dels transistors i el voltatge aplicat al relé, s'escull un tipus d'iluminació o un altre.
+- [ ] Secció 9: etapa reservada pels outputs i el connector DB-9 del bus CAN
 
 ## Historial de canvis 
 | Data | Autor | Branch | Descripció |
