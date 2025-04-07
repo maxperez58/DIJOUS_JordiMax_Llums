@@ -41,7 +41,9 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 | Transistor MOS | ZXTN19020DFFTA |SMD| [ZXTN19020DFFTA](https://www.diodes.com/assets/Datasheets/ZXTN19020DFF.pdf) | Mouser | 5 |
 | Traductor (3.3V-5V) | PCA9306D |SMD|[PCA9306D](https://www.ti.com/lit/ds/symlink/pca9306.pdf?ts=1743021004009&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FPCA9306) | Mouser | 1 |
 | Sensor hall | TMAG5124G1CEDBZRQ1 |SMD| [TMAG5124G1CEDBZRQ1](https://www.ti.com/lit/ds/symlink/tmag5124-q1.pdf?ts=1743694512003&ref_url=https%253A%252F%252Fwww.mouser.es%252F) | Mouser | 1 |
-| Cristall | XT9M20HRR8M |SMD| [XT9M20HRR8M](https://datasheet.octopart.com/XT9M20ANA8M-Vishay-datasheet-41303490.pdf) | Mouser | 1 |
+| OPAMP's | LT6202CS5 |SMD| [LT6202CS5](https://www.mouser.es/datasheet/2/609/620234fd-2955338.pdf) | Mouser | 1 |
+| Voltage Regulator | TLV1117-33 |SMD| [TLV1117-33](http://www.ti.com/lit/ds/symlink/tlv1117.pdf) | Mouser | 1 |
+| Cristall | XT9M20ANA8M |SMD| [XT9M20ANA8M](https://datasheet.octopart.com/XT9M20ANA8M-Vishay-datasheet-41303490.pdf) | Mouser | 1 |
 
 
 
