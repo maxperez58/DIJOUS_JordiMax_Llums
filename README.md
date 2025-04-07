@@ -22,6 +22,7 @@ L'objectiu d'aquest projecte és la realització d'un sistema de control per els
 
 ## Diagrama de blocs (Afegiu una imatge del diagrama de blocs)
 ![image](Diagrama%20Bloques/diagramadeblocs.png)
+
 _Figura 1.1: Diagrama de Blocs del nostre projecte_
 
 
