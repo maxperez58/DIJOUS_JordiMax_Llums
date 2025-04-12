@@ -30,7 +30,7 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
-| LDO-5V | ADM7172ACPZ-5.0-R7 |SMD| [ADM7172ACPZ-5.0-R7](https://www.mouser.es/datasheet/2/609/ADM7172-3121160.pdf)| Mouser | 1 |
+| LDO-5V | LT1117-5 |SMD| [LT1117-5](https://www.mouser.es/datasheet/2/609/1117fd-2953685.pdf)| Mouser | 1 |
 | LDO-3.3V | ADP7112ACBZ-3.3-R7 |SMD| [ADP7112ACBZ-3.3-R7 ](https://www.mouser.es/datasheet/2/609/ADP7112-3121706.pdf)| Mouser | 1 |
 | Sensor de llum | BH1750FVI-TR |SMD| [BH1750FVI-TR](https://www.mouser.com/catalog/specsheets/Rohm_11162017_ROHMS34826-1.pdf)| Mouser | 1 |
 | Relé | G5LE-1 DC12 |TO-220| [G5LE-1 DC12](https://www.mouser.es/datasheet/2/307/en_g5le-3447037.pdf)| Mouser | 2 |
@@ -92,7 +92,7 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 | 2025-04-06 | Jordi Godàs |  `main` | Update pcb, bigger paths and better organitzation |
 | 2025-04-06 | Jordi Godàs |  `main` | Update schemetatic, minor changes |
 | 2025-04-07 | Jordi Godàs |  `main` | Finished layout, ERC passed |
-| 2025-04-07 | Max Pérez |  `main` | Update readme: update componentes usados + diagrama bloques i funcionalidades secciones|
+| 2025-04-12 | Max Pérez |  `main` | Update readme: update componentes usados + diagrama bloques i funcionalidades secciones|
 | 2025-04-07 | Max Pérez |  `main` | Update Esquemàtic: nombrar nodos + corrección conexión etapa Shut|
 | 2025-04-09 | Jordi Godàs |  `main` | Update layout: 2CI ERC passed |
 | 2025-04-09 | Max Pérez |  `main` | Cambio LDO a 5V dado a la footprint conflictiva del anterior |
