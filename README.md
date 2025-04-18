@@ -30,7 +30,7 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 ## Taula de components
 | Descripció | Manufacturer Number | Package | Datasheet | Proveïdor | Unitats |
 |------------|--------------------|---------|----------|----------|---------|
-| LDO-5V | LT1117-5 |SMD| [LT1117-5](https://www.mouser.es/datasheet/2/609/1117fd-2953685.pdf)| Mouser | 1 |
+| LDO-5V | REG1117-5 |SMD| [LT1117-5](https://www.mouser.es/datasheet/2/609/1117fd-2953685.pdf)| Mouser | 1 |
 | LDO-3.3V | ADP7112ACBZ-3.3-R7 |SMD| [ADP7112ACBZ-3.3-R7 ](https://www.mouser.es/datasheet/2/609/ADP7112-3121706.pdf)| Mouser | 1 |
 | Sensor de llum | BH1750FVI-TR |SMD| [BH1750FVI-TR](https://www.mouser.com/catalog/specsheets/Rohm_11162017_ROHMS34826-1.pdf)| Mouser | 1 |
 | Relé | G5LE-1 DC12 |TO-220| [G5LE-1 DC12](https://www.mouser.es/datasheet/2/307/en_g5le-3447037.pdf)| Mouser | 2 |
