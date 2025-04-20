@@ -20072,7 +20072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Neosid_Ms42"
+		(property "Footprint" "Inductor_SMD:L_1210_3225Metric"
 			(at 196.85 35.56 0)
 			(effects
 				(font
