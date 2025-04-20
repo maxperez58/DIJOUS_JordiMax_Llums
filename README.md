@@ -97,6 +97,6 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 | 2025-04-09 | Jordi Godàs |  `main` | Update layout: 2CI ERC passed |
 | 2025-04-12 | Max Pérez |  `main` | Cambio LDO a 5V dado a la footprint conflictiva del anterior |
 | 2025-04-12 | Max Pérez |  `main` | Revisión y sustitución de footprints mal asignadas, así como reorganización en el layout de la etapa de potencia |
-
+| 2025-04-20 | Max Pérez |  `main` | Matriu de preus per a tirada curta PCBs|
 
 
