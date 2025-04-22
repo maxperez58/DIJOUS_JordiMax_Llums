@@ -99,4 +99,4 @@ _Figura 1.1: Diagrama de Blocs del nostre projecte_
 | 2025-04-12 | Max Pérez |  `main` | Revisión y sustitución de footprints mal asignadas, así como reorganización en el layout de la etapa de potencia |
 | 2025-04-20 | Max Pérez |  `main` | Matriu de preus per a tirada curta PCBs|
 | 2025-04-20 | Max Pérez |  `main` | Generació Gerbers|
-
+| 2025-04-20 | Max Pérez |  `main` | Búsqueda precios JCL PCB y referencias en su catálogo|
